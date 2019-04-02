@@ -12,11 +12,11 @@
 
 [作品一覧](https://jamcha-aa.github.io/About/)  
 
-[GitHubリポジトリ](https://github.com/jamcha-aa/column)  
+[GitHub リポジトリ](https://github.com/jamcha-aa/column)  
 
 <br>  
 <br>  
-Copyright (c) 2018 jamcha (jamcha.aa@gmail.com).  
+Copyright (c) 2018-2019 jamcha (jamcha.aa@gmail.com).  
 
 Every document in this repository is licensed under the [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed)  
 
